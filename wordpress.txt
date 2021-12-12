@@ -1,0 +1,14 @@
+English:
+
+Wordpress project.
+
+Since github won't allow to upload files bigger than 25 mb, i uploaded project to my drive. Here is the link:
+https://drive.google.com/drive/u/2/folders/1MvCTbQ9Ze-h2YGOEXIRQhlbgHuxsyJab
+
+
+Srpski:
+
+Projekat iz wordpresa. 
+
+S obzirom na to da github ne dozvoljava apload fajlova većih od 25 mb, aploadovao sam projekat na moj drajv. Ovde je
+link: https://drive.google.com/drive/u/2/folders/1MvCTbQ9Ze-h2YGOEXIRQhlbgHuxsyJab
